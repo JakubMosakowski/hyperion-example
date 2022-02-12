@@ -4,4 +4,6 @@
     <string name="crash_button">Crash button</string>
     <string name="add_shared_pref">Add shared pref</string>
     <string name="start_animation">Start Animation</string>
+
+    <string name="plugin_text">Our own custom plugin!</string>
 </resources>
