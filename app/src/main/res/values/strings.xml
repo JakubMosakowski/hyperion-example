@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HyperionExample</string>
+
+    <string name="crash_button">Crash button</string>
+    <string name="add_shared_pref">Add shared pref</string>
+    <string name="start_animation">Start Animation</string>
+</resources>
